@@ -1,6 +1,6 @@
 ---
 layout: base.njk
-title: Reseña de mis peliculas favoritas
+title: Corazones de hierro
 tags: peliculas
 ---
 

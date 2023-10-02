@@ -1,6 +1,6 @@
 ---
 layout: base.njk
-title: Mis videojuegos y consolas
+title: Mis videojuegos y consolas de mi infancia
 tags: videojuegos
 ---
 
@@ -19,4 +19,5 @@ desde este juego me enamore con los videojuegos y como la consola era portatil j
 ![ser Feliz]({{ '/static/img/xbox360.jpg' | url }})
 
 ahi conoci los juegos de carreras como el forza horizon y tambien los juegos shooters como halo y la saga gears of war que fueron grandes juegos de mi infancia ahora en la actualidad pude conseguir comprar mi pc gamer para la escuela y para jugar varios juegos con mis amigos o solo me eh viciado a varios juegos como apex legends, fortnite, call of duty warzone y mas juegos multijugador y lo de singleplayer los que mas me eh viciado son el lies of p, el dark souls, monster hunter generations y rise y el persona 5 grandes juegos que recomiendo 
+
 [Home]({{ '/' | url }})

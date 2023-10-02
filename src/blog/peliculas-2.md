@@ -1,6 +1,6 @@
 ---
 layout: base.njk
-title: Reseña de mis peliculas favoritas
+title: Son como niños 1 y 2
 tags: peliculas
 ---
 
