@@ -5,7 +5,7 @@ title: Sobre mi
 
 # {{ title }}
 
-Hola mi nombre es Jonathan Zavala Acosta me gusta muchos editar vikdeos y programar vieojuegos soy fan de muchos animes 
+Hola mi nombre es Jonathan Zavala Acosta me gusta muchos editar videos y programar vieojuegos soy fan de muchos animes y stremeo como hobby pero espero hacerlo un trabajo y para tambien impulsar mi cxarrera como programador de videojuegos
 
 [Acerca]({{ '/acerca' | url }})
 
