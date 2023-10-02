@@ -1,12 +1,14 @@
 ---
 layout: base.njk
-title: Reseña de la serie 1
-tags: series
+title: Reseña de mis peliculas favoritas
+tags: peliculas
 ---
 
 # {{title}}
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque doloremque rem similique asperiores voluptas inventore vero illum eveniet sunt, aut velit incidunt laborum modi atque excepturi praesentium ut veritatis. Facilis.
+
+![ser Feliz]({{ '/static/img/ser-feliz.jpg' | url }})
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque doloremque rem similique asperiores voluptas inventore vero illum eveniet sunt, aut velit incidunt laborum modi atque excepturi praesentium ut veritatis. Facilis.
 

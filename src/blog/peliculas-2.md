@@ -1,7 +1,7 @@
 ---
 layout: base.njk
-title: Reseña del libro 3
-tags: libros
+title: Reseña de mis peliculas favoritas
+tags: peliculas
 ---
 
 # {{title}}

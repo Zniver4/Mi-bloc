@@ -1,31 +1,36 @@
 ---
 layout: base.njk
-title: Hola Mundo 11ty
+title: Sobre mi
 ---
 
 # {{ title }}
 
-- Primavera
-- Verano
-- Otoño
-- Invierno
+Hola mi nombre es Jonathan Zavala Acosta me gusta muchos editar vikdeos y programar vieojuegos soy fan de muchos animes 
 
 [Acerca]({{ '/acerca' | url }})
 
 ## Artículos de mi Blog
 
-### Categoría Libros
+### Categoría mis animes favoritos
 
-{% for libro in collections.libros %}
+{% for anime in collections.anime %}
 
-- [{{libro.data.title}}]({{ libro.url | url }})
+- [{{anime.data.title}}]({{ anime.url | url }})
 
 {% endfor %}
 
-### Categoria Series
+### Categoría de mis videojuegos favoritos
 
-{% for serie in collections.series %}
+{% for videojuegos in collections.videojuegos %}
 
-- [{{serie.data.title}}]({{ serie.url | url }})
+- [{{videojuegos.data.title}}]({{ videojuegos.url | url }})
+
+{% endfor %}
+
+### Categoría de mis peliculas favoritas
+
+{% for peliculas in collections.peliculas %}
+
+- [{{peliculas.data.title}}]({{ peliculas.url | url }})
 
 {% endfor %}
