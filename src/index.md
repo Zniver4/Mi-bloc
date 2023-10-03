@@ -7,7 +7,6 @@ title: Sobre mi
 
 Hola mi nombre es Jonathan Zavala Acosta me gusta muchos editar videos y programar vieojuegos soy fan de muchos animes y stremeo como hobby pero espero hacerlo un trabajo y para tambien impulsar mi carrera como programador de videojuegos
 
-![ser Feliz]({{ '/static/img/yo.jpg' | url }})
 
 ## Artículos de mi Blog
 
